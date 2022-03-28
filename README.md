@@ -1,0 +1,1 @@
+Projeto desenvolvido para praticar a utilização de javascript e APIs.
